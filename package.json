@@ -1,0 +1,10 @@
+{
+  "name": "fundamentos-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "devcarlin <carlos.henrique>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
+}
