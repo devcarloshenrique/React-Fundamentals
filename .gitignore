@@ -1,3 +1,14 @@
 node_modules
 node_modules/
 node_modules/.yarn-integrity
+dist/bundle.js
+dist/bundle.js.map
+dist/index.html
+node_modules/.yarn-integrity
+dist/bundle.js
+dist/index.html
+dist/bundle.js
+dist/index.html
+yarn-error.log
+yarn.lock
+yarn.lock
